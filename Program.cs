@@ -28,7 +28,7 @@ public class Program
 		checkout1.scan("ipd");
 		checkout1.scan("ipd");
 		checkout1.scan("ipd");
-		Console.WriteLine("bulk example total:-" + checkout1.total());
+		Console.WriteLine("bulk example total:" + checkout1.total());
 
 
 		//Example 3
